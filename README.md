@@ -13,9 +13,10 @@ or temperature records) into sound, so people can hear climate trends
 as well as see them. Users choose a dataset, region and time range.
 
 ## Team
-- [Name]
-- [Name]
-- [Name]
+- Umme Saima Tonny
+- Sabila Anzum
+- Maimuna Tabassum
+- Sidratul Muntaha
 
 ## Planned tools
 - NASA Earth data
