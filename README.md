@@ -20,7 +20,7 @@ as well as see them. Users choose a dataset, region and time range.
 
 ## Planned tools
 - NASA Earth data
-- [Python / JavaScript]
+- [Python and/or JavaScript (to be finalized)]
 - Web Audio API
 
 ## Status
